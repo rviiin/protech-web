@@ -11,9 +11,9 @@ To see a preview of the website design, check the images below:
 These images give you a quick look at the layout and futuristic style of the site.  
 
 ## Technologies Used  
-- HTML5  
-- CSS3  
+- HTML 
+- CSS 
 - JavaScript  
 
 ---
-© 2025 Arvin Rex Afalla II
+
